@@ -1,0 +1,16 @@
+__     ___       _     _   ____ _               _
+\ \   / (_)_   _(_) __| | / ___| |__   ___  __ _| |_
+ \ \ / /| \ \ / / |/ _` || |   | '_ \ / _ \/ _` | __|
+  \ V / | |\ V /| | (_| || |___| | | |  __/ (_| | |_
+   \_/  |_| \_/ |_|\__,_| \____|_| |_|\___|\__,_|\__|
+
+Vivid Cheat. Third-party software targeting Epic Games Fortnite.
+
+
+[+] DOWNLOAD LINK: https://telegra.ph/Download-05-21-39
+- Category: third-party Fortnite tooling.
+- Game: Fortnite uses Easy Anti-Cheat (EAC); use violates Epic Games Terms of Service and may result in account ban.
+
+
+TAGS
+vivid, vivid-cheat, fortnite, third-party-software
